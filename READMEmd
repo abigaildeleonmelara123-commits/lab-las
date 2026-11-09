@@ -1,0 +1,7 @@
+# Laboratorio de Seguridad Aplicada
+
+* **Estudiante:** Sofi  Abigail Deleon Melara
+* **Asignatura:** Lenguaje de programacion con Aspectos de seguridad
+
+## Descripción del Proyecto
+Aplicación web desarrollada con Flask y SQLite que implementa control de acceso, autenticación de usuarios y un script de detección para el registro de intentos y métricas de seguridad.
